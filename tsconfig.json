@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "es2021",
+		"jsx": "preserve",
+		"strictFunctionTypes": true,
+		"sourceMap": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"outDir": "./build",
+		"rootDir": "./src",
+		"forceConsistentCasingInFileNames": true,
+		"importHelpers": true,
+		"strict": true,
+		"typeRoots": [
+			"./node_modules/@types",
+		]
+	},
+	"exclude": [
+		"node_modules",
+		"**/node_modules/*",
+	]
+}

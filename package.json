@@ -1,0 +1,23 @@
+{
+  "name": "matematika-kuartil",
+  "version": "1.0.0",
+  "description": "A speedrun coding session that starts on 1 AM, creating what I learnt on school today into NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TIRTAGT/matematika-kuartil.git"
+  },
+  "author": "Matthew Tirtawidjaja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TIRTAGT/matematika-kuartil/issues"
+  },
+  "homepage": "https://github.com/TIRTAGT/matematika-kuartil#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.15",
+    "tslib": "^2.3.1"
+  }
+}
